@@ -1,0 +1,15 @@
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\bin\Debug\net7.0\Exam1.exe
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\bin\Debug\net7.0\Exam1.deps.json
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\bin\Debug\net7.0\Exam1.runtimeconfig.json
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\bin\Debug\net7.0\Exam1.dll
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\bin\Debug\net7.0\Exam1.pdb
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\obj\Debug\net7.0\Exam1.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\obj\Debug\net7.0\Exam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\obj\Debug\net7.0\Exam1.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\obj\Debug\net7.0\Exam1.AssemblyInfo.cs
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\obj\Debug\net7.0\Exam1.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\obj\Debug\net7.0\Exam1.dll
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\obj\Debug\net7.0\refint\Exam1.dll
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\obj\Debug\net7.0\Exam1.pdb
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\obj\Debug\net7.0\Exam1.genruntimeconfig.cache
+C:\Users\Олег\Desktop\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ\Изучаем С\Exam1\obj\Debug\net7.0\ref\Exam1.dll
